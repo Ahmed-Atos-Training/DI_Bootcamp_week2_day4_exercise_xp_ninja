@@ -1,7 +1,7 @@
 // exercice 1
 // part 1
 function infoAboutMe(){
-    console.log("je suis diarrassouba seydou,j'ai 25 ans, je joue au football");
+    console.log("je suis Ahmed KONE");
 } 
 infoAboutMe()
 
